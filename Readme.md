@@ -8,4 +8,4 @@ Este proyecto es un carrito de compras simple creado con el fin de practicar y d
 - **Eventos de Usuario**: Implementa eventos de JavaScript para interactuar con el carrito de compras de manera reactiva.
 - **Manipulación del DOM**: Utiliza JavaScript para actualizar el contenido de la página en tiempo real, reflejando los cambios en el carrito.
 
-![Interfaz de la web!]("\imgmd\image.png")
+![Interfaz de la web!]("imgmd\image.png")
