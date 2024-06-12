@@ -7,5 +7,3 @@ Este proyecto es un carrito de compras simple creado con el fin de practicar y d
 - **Gestión de Productos**: Permite agregar y eliminar los de productos en el carrito.
 - **Eventos de Usuario**: Implementa eventos de JavaScript para interactuar con el carrito de compras de manera reactiva.
 - **Manipulación del DOM**: Utiliza JavaScript para actualizar el contenido de la página en tiempo real, reflejando los cambios en el carrito.
-
-!https://github.com/josee404/carrito-de-compras/blob/main/imgmd/image.png?raw=true
